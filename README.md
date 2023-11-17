@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align="center">
-<img src="info_movies/public/IMG/Capturar2.1.PNG" width = "500px">
+<img src="info_movies/public/IMG/Capturar4.PNG" width = "500px">
 </div>
 <br>
 <h3 align = "center"> Página de um filme com os detalhes</h3>
