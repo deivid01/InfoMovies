@@ -25,10 +25,10 @@
 <h3 align = "center"> Página de um filme com os detalhes</h3>
 <br>
 <div align="center">
-<img src="info_movies/public/IMG/capturar2.PNG" width = "500px">
+<img src="info_movies/public/IMG/capturar2.1.PNG" width = "500px">
 </div>
 <br>
 <div align="center">
-<img src="info_movies/public/IMG/capturar5.PNG" width = "500px">
+<img src="info_movies/public/IMG/capturar2.2.PNG" width = "500px">
 </div>
 <br>
